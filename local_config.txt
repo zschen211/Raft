@@ -1,5 +1,0 @@
-A localhost 50001
-B localhost 50002
-C localhost 50003
-D localhost 50004
-E localhost 50005
